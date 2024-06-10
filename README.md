@@ -7,3 +7,4 @@ Sign In:
 Sign Up:
 ![image](https://github.com/Fathanrachel/Login_Page_Modern/assets/143999649/73ef084b-4507-4479-aafe-585d506cd271)
 
+Disini saya membuat halaman login page modern yang dimana dengan bantuan javasqript dan juga HTML CSS
